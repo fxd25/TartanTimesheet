@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TartanTimesheet</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    
+    <string-array name="role_array">
+        <item>TA</item>
+        <item>RA</item>
+        <item>AR</item>
+    </string-array>
+
+</resources>
